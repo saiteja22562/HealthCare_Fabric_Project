@@ -1,0 +1,37 @@
+[
+    {
+        "p_rel_url" : "saiteja22562/HealthCare_Fabric_Project/refs/heads/main/Source%20Data/Beneficiary_Summary_File_2008.csv",
+        "p_sink_folder" : "Beneficiary_Summary_Files",
+        "p_sink_file" : "Beneficiary_Summary_File_2008.csv"
+    },
+    {
+        "p_rel_url" : "saiteja22562/HealthCare_Fabric_Project/refs/heads/main/Source%20Data/Beneficiary_Summary_File_2009.csv",
+        "p_sink_folder" : "Beneficiary_Summary_Files",
+        "p_sink_file" : "Beneficiary_Summary_File_2009.csv"
+    },
+    {
+        "p_rel_url" : "saiteja22562/HealthCare_Fabric_Project/blob/main/Source%20Data/Beneficiary_Summary_File_2010.csv",
+        "p_sink_folder" : "Beneficiary_Summary_Files",
+        "p_sink_file" : "Beneficiary_Summary_File_2010.csv"
+    },
+    {
+        "p_rel_url" : "saiteja22562/HealthCare_Fabric_Project/refs/heads/main/Source%20Data/Inpatient_Claims.csv",
+        "p_sink_folder" : "Inpatient_Claims",
+        "p_sink_file" : "Inpatient_Claims.csv"
+    },
+    {
+        "p_rel_url" : "saiteja22562/HealthCare_Fabric_Project/refs/heads/main/Source%20Data/Outpatient_Claims.csv",
+        "p_sink_folder" : "Outpatient_Claims",
+        "p_sink_file" : "Outpatient_Claims.csv"
+    },
+    {
+        "p_rel_url" : "saiteja22562/HealthCare_Fabric_Project/blob/main/Source%20Data/synthetic_carrier_claims.csv",
+        "p_sink_folder" : "Synthetic_Carrier_Claims",
+        "p_sink_file" : "Synthetic_Carrier_Claims.csv"
+    },
+    {
+        "p_rel_url" : "saiteja22562/HealthCare_Fabric_Project/blob/main/Source%20Data/synthetic_prescription_drugs.csv",
+        "p_sink_folder" : "Synthetic_Prescription_Drugs",
+        "p_sink_file" : "Synthetic_Prescription_Drugs.csv"
+    }
+]
